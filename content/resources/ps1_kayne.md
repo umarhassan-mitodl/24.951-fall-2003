@@ -4,6 +4,8 @@ description: ''
 file: /courses/24-951-introduction-to-syntax-fall-2003/095bfca1244047a7fdf299f7532bedba_ps1_kayne.pdf
 file_size: 77518
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

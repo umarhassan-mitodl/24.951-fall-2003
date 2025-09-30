@@ -24,6 +24,7 @@
     "website": "24-951-introduction-to-syntax-fall-2003"
   },
   "course_title": "Introduction to Syntax",
+  "hide_download": true,
   "course_description": "This course is concerned with the concepts and principles which have been of central significance in the recent development of syntactic theory, with special focus on the \"Government and Binding\" (GB) / \"Principles and Parameters\" (P&P) / \"Minimalist Program\" (MP) approach.\n\nIt is the first of a series of two courses (24.951 is taught during the Fall and 24.952 is taught in the Spring). This course deals mostly with phrase structure, argument structure and its syntactic expression, including \"A-movement\". Though other issues (e.g. wh-movement, antecedent-contained deletion, extraposition) may be mentioned during the semester, the course will not systematically investigate these topics in class until 24.952.\n\nThe goal of the course is to understand why certain problems have been treated in certain ways. Thus, on many occasions a variety of approaches will be discussed, and the (recent) historical development of these approaches are emphasized.\n",
   "department_numbers": [
     "24"
@@ -34,6 +35,7 @@
     "content": "04251a34-4fb7-e0f7-3507-29a5d924ad10",
     "website": "24-951-introduction-to-syntax-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

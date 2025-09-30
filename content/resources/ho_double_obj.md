@@ -4,6 +4,8 @@ description: ''
 file: /courses/24-951-introduction-to-syntax-fall-2003/b39a3ca707e0b0307e08a8dc839c4c88_ho_double_obj.pdf
 file_size: 139868
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
